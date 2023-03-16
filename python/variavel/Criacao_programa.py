@@ -1,0 +1,10 @@
+print("bem vindo")
+print("----------------------//-----------")
+nome=('nanica')
+idade=6
+casado=('false')
+esportista=('thrue')
+print ('olá',nome)
+print("nossa como você é nova:",idade)
+print("situação matrimonial:",casado)
+print("Pratica esporte?",esportista)

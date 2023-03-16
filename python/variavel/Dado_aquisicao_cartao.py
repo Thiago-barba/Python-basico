@@ -1,0 +1,10 @@
+print("Olá seja bem vindo tenha uma excelente experiência na aquisição do seu cartão")
+print('Banco Thi & Thi')
+nome=("gabriel")
+renda=("4000.00")
+profissão=True
+birthdate=("10/05/1985")
+print("Olá",nome,"bom te ver por aqui novamente")
+print("Seus rendimentos são?",renda, "uhuuu está no caminho certo")
+print("Ele é profissional autonomo?",profissão)
+print("Sua data de nascimento é:",birthdate,"nossa você é novinho")
