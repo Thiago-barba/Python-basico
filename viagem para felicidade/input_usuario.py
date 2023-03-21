@@ -1,0 +1,8 @@
+print("Bem vindo, aproveite o começo da sua viagem")
+print("Para darmos inicio, realize o cadastro")
+print ('Nome Completo:')
+print ('CPF:   .   .   -  '[:20])
+print ('Endereço:')
+print ('CEP:_____-___'[:20])
+print("E-mail:")
+print("Telefone: (  )")

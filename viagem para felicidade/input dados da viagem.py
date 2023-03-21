@@ -1,0 +1,5 @@
+print('Selecione as informações para a sua viagem')
+print('Destino:')
+print('Ida:'), print('Volta:')
+print('Quantos adultos:'), print('casal:')
+print('Quantas crianças (menor de 12 anos)')
